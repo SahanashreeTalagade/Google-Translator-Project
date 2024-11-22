@@ -1,11 +1,5 @@
-1. [Installation]
-2. [Usage]
-3. [Contributing]
-4. [Contact]
-5. [Acknowledgments]
 PROJECT TITLE:
 Google Translator Project
-
 This is a simple Google Translator project using Python. It leverages the googletrans library to translate text from one language to another seamlessly.
 
 TABLE OF CONTENTS:
