@@ -3,3 +3,68 @@
 3. [Contributing]
 4. [Contact]
 5. [Acknowledgments]
+PROJECT TITLE:
+Google Translator Project
+
+This is a simple Google Translator project using Python. It leverages the googletrans library to translate text from one language to another seamlessly.
+
+TABLE OF CONTENTS:
+
+1. [Installation]
+2. [Usage]
+3. [Contributing]
+4. [Contact]
+5. [Acknowledgments]
+
+
+INSTALLATION:
+
+To install the necessary dependencies and set up the project, follow these steps:
+
+1. Clone the repository:
+    bash
+    git clone https://github.com/SahanashreeTalagade/Google-Translator-Project.git
+    
+2. Navigate to the project directory:
+    bash
+    cd GoogleTranslatorProject
+    
+3. Install the dependencies:
+    bash
+    pip install -r requirements.txt
+    
+
+USAGE:
+
+To use the translator, run the main.py script. Here’s how you can do it:
+
+1. Open your terminal or command prompt.
+2. Navigate to the project directory.
+3. Run the following command:
+    bash
+    python main.py
+    
+
+Modify the text and dest_language variables in main.py to translate different text or to different languages.
+
+CONTRIBUTING:
+
+If you would like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-name).
+3. Make your changes and commit them (git commit -m 'Add new feature').
+4. Push to the branch (git push origin feature-name).
+5. Create a pull request.
+
+ CONTACT:
+
+If you have any questions or suggestions, feel free to reach out.
+
+- Name: Sahanashree 
+- Email: sahanatalagade@gmail.com
+- GitHub: [Sahanashree Talagade](https://github.com/SahanashreeTalagade)
+
+ACKNOWLEDGMENTS:
+
+- Special thanks to the developers of the googletrans library.
